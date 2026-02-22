@@ -11,4 +11,5 @@ plugins:
         - zh
   - open-in-new-tab
 nav:
-  - Home: 'index.md'
+  - Главная: 'index.md'
+  - Японский язык: 'japanese.md'
