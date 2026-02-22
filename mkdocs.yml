@@ -1,0 +1,14 @@
+site_name: All Chinese All The Time
+site_url: https://acatt-ru.github.io
+theme:
+  name: material
+plugins:
+  - search:
+      lang:
+        - en
+        - ja
+        - ru
+        - zh
+  - open-in-new-tab
+nav:
+  - Home: 'index.md'
