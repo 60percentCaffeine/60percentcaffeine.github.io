@@ -7,4 +7,4 @@
 * [bkrs2yomi](https://github.com/etsune/bkrs2yomi/releases/latest) -- русско-китайский словарь для Yomitan (насчет качества не проверял, но он вроде единственный на русском)
 * [Прочие словари для Yomitan](https://github.com/MarvNC/yomitan-dictionaries?tab=readme-ov-file#mandarin-chinese) (англоязычный) -- словари частотности, англоязычные, японоязычные и моноязычные (китайские) словари
 
-Так же у нас есть [страничка по японскому языку](/japanese).
+Так же у нас есть [страничка по японскому языку](japanese.md).
